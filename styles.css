@@ -171,6 +171,7 @@ body {
     justify-self: center;
     margin-top: 10px;
     cursor: pointer;
+    font-size: 0.9rem;
 }
 
 .buttons #random-button:hover {
